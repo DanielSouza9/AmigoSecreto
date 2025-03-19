@@ -28,8 +28,6 @@ amigo-secreto/
 ├── style.css           # Arquivo de estilos CSS
 ├── script.js           # Arquivo de lógica JavaScript
 ├── README.md           # Este arquivo
-└── assets/             # Pasta para imagens ou outros recursos
-    └── exemplo.png     # Exemplo de imagem
 ```
 
 ## 🖥️ Como Executar o Projeto
